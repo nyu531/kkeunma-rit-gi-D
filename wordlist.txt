@@ -4,3 +4,4 @@ excel
 long
 golf
 fire
+emperor
